@@ -1,0 +1,40 @@
+body{
+    
+}
+
+@font-face{
+	font-family: Titulo;
+	src: url('./Fuentes/Saira_Condensed/SairaCondensed-Bold.ttf');
+}
+
+@font-face{
+	font-family: Texto;
+	src: url('./Fuentes/Noto_Sans/NotoSans-Regular.ttf');
+}
+
+h1, h2{
+    font-family: 'Titulo';
+}
+
+h3, h4, h5{
+    font-family: 'Texto';
+}
+
+.camilo{
+    
+    text-align: center;
+	margin: auto;
+	
+	align-content: center;
+	margin-top: 5px;
+
+}
+
+.jose{
+    text-align: center;
+	width: 48%;
+	margin: auto;
+	float:left;
+	align-content: center;
+	margin-top: 5px;
+}
